@@ -9,7 +9,7 @@
 - Bing Maps API
 
 ## 提供されるデータについて
-富山市、富山県のオープンデータ等を利用し、Code for Toyama City で独自のCSVファイルを作成、GeoJSONに変換して利用しています。詳しくは、以下のページをご覧ください。<BR>
+富山市、富山県のオープンデータを利用し、育サポとやまのスクレイピングしたものをCode for Toyama City で独自のCSVファイルを作成、GeoJSONに変換して利用しています。詳しくは、以下のページをご覧ください。<BR>
 https://github.com/codefortoyama/papamama/blob/master/doc/README.md
 
 # (以下に本プロジェクトの元となったCode for Sapporo版のドキュメント)
